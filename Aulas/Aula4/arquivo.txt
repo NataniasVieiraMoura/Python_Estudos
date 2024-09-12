@@ -1,0 +1,5 @@
+Cadastro Cliente
+Cadastro Produtos
+Cadastro usuário
+Cadastro Funcionário
+Compra Almocharifado
